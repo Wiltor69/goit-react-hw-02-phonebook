@@ -15,8 +15,8 @@ export const StyledField = styled(Field)`
   margin-bottom: 15px;
 `;
 
-export const Div = styled.div`
-border: 4px solid purple;
-width: 500px;
-margin:0 auto;
+export const Block = styled.div`
+  border: 4px solid purple;
+  width: 500px;
+  margin: 0 auto;
 `;

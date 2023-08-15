@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 
-export const Div = styled.div`
+export const Block = styled.div`
   text-align: center;
   padding: 16px 24px;
 `;
